@@ -36,5 +36,3 @@ ERD Diagram Folder:
 - ERD Database.pgerd: An updated ERD Diagram for our databases project
 - This file can be opened up using PG Admin
 
--> Project Video: The video for our databases project. Please note we tried our best to make this under 250 MB but the quality and audio was so bad and even then it was still over 250 MB limit. We are sorry about this, but we don't think there is any possible way to submit a 30 Minute video that is under 250 MB.
--> Project Report: The report for our databases project.
