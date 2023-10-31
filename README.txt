@@ -1,9 +1,9 @@
 READ ME File
 
--> Student Details
-Yash Jain - 300245571
-Rahul Gour - 300271724
-Rudra Patel - 300247682
+Authors:
+Yash Jain 
+Rahul Gour 
+Rudra Patel 
 
 -> Files Submission
 CSI 2132 Databases Project:
